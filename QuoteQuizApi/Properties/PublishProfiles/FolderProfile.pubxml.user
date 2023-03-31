@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\lukap\source\repos\QuoteQuizApi\QuoteQuizApi\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2022-03-05T17:55:14.1794481Z;True|2022-03-05T21:51:16.9449448+04:00;True|2022-03-05T20:05:29.2977307+04:00;True|2022-03-05T19:42:38.6004880+04:00;True|2022-03-05T13:30:34.9309584+04:00;True|2022-03-05T01:53:53.4750481+04:00;True|2022-03-05T01:45:52.9768843+04:00;True|2022-03-05T01:12:33.0518340+04:00;</History>
+  </PropertyGroup>
+</Project>
